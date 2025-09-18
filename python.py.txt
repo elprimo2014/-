@@ -1,7 +1,0 @@
-fruits = ['orange', 'apple', 'pear', 'banana', 'kiwi', 'apple', 'banana']
-fruits.append('grape')
-fruits.insert(0, 'mango')
-fruits.remove('apple')
-
-print("Фрукты:", fruits)
-print("Количество banana:", fruits.count('banana'))
